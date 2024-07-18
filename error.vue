@@ -3,7 +3,7 @@
     <UContainer>
         <UCard>
             <div class="text-red-600 text-2xl font-semibold">
-                <h1>ERRO {{props.error.statusCode}}</h1>
+                <h1>ERROr {{props.error.statusCode}}</h1>
             </div>
             
             <div class="h-12" />
